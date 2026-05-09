@@ -1,4 +1,3 @@
-langchain-core
 streamlit
 langchain_groq
 pymupdf
