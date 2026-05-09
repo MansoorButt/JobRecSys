@@ -1,0 +1,6 @@
+langchain-core
+streamlit
+langchain_groq
+pymupdf
+python-dotenv
+apify-client
